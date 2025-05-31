@@ -79,4 +79,5 @@ All queries covered:
 Discount Effectiveness Chart
 
 ## 📜 License
-MIT License - Feel free to adapt for your own analytics projects!
+
+[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)

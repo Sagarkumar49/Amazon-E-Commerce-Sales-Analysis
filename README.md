@@ -76,7 +76,13 @@ All queries covered:
 - Bundling: Increase "Frequently Bought Together" suggestions
 
 ## 📊 Sample Visualization
-Discount Effectiveness Chart
+
+- Discount effectiveness chart ([Mermaid](https://mermaid.js.org/) :
+  ```mermaid
+  pie title Discount Ranges
+      "20-40% Discount" : 45
+      "<20% Discount" : 25
+      ">40% Discount" : 30
 
 ## 📜 License
 

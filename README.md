@@ -1,6 +1,6 @@
 # 📊 Amazon E-Commerce Sales Analysis | SQL Insights for Pricing & Customer Behavior
 
-![SQL Analysis](https://img.shields.io/badge/Analysis-SQL-blue) 
+[![SQL Analysis](https://img.shields.io/badge/Analysis-SQL-blue)](./)
 ![Data Visualization](https://img.shields.io/badge/Visualization-PowerBI-orange) 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
